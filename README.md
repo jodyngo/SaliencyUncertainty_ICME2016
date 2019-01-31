@@ -14,4 +14,4 @@ T. Alshawi, Z. Long, and G. AlRegib, “Understanding spatial correlation in eye
 
 ## How to Run
 
-Results in the paper can be reproduced using the codes and scripts included in this folder. Simply, run the script 'main.m' which will access eye-fixation files located in 'EyeFixationMaps' folder. main.m script contain codes to reproduce figures 2 to 7 in the paper. The Eye-fixation files can themselfs be reproduced using instructions included in ReadMe note in 'EyeFixationMaps'. Figures 3(a), 4(a), and 5(a) are included in 'VideoSamples' folder.
+Results in the paper can be reproduced using the codes and scripts included in this folder. Simply, run the script 'main.m' which will access eye-fixation files located in 'EyeFixationMaps' folder. main.m script contain codes to reproduce figures 2 to 7 in the paper. The eye-fixation files can themselfs be reproduced using instructions included in ReadMe note in 'EyeFixationMaps'. Figures 3(a), 4(a), and 5(a) are included in 'VideoSamples' folder.
